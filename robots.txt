@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://artur-cereto.github.io/al-folio/sitemap.xml
+Sitemap: https://artur-cereto.github.io/sitemap.xml
